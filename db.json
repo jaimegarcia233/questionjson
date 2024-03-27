@@ -1,0 +1,164 @@
+{
+  "QuizQuestions": [
+    {
+      "Question": "What is the primary cause of earthquakes?",
+      "Option_1": "A).Volcanic activity",
+      "Option_2": "B).Tornadoes",
+      "Option_3": "C).Plate tectonics",
+      "Option_4": "D).Human activities",
+      "Correct_Answer": "C).Plate tectonics"
+    },
+    {
+      "Question": "Which of the following is the most important item to include in a disaster preparedness kit?",
+      "Option_1": "A).Flashlight",
+      "Option_2": "B).Canned food ",
+      "Option_3": "C).Extra clothes",
+      "Option_4": "D).First aid manual",
+      "Correct_Answer": "A).Flashlight"
+    },
+    {
+      "Question": "What is the primary cause of landslides? ",
+      "Option_1": "A).Earthquakes",
+      "Option_2": "B).Heavy rainfall",
+      "Option_3": "C).Strong winds",
+      "Option_4": "D).Tornadoes",
+      "Correct_Answer": "B).Heavy rainfall"
+    },
+    {
+      "Question": "How can you protect yourself during a flood?",
+      "Option_1": "A).Driving through floodwaters",
+      "Option_2": "B).Standing on rooftops",
+      "Option_3": "C).Avoiding flooded areas",
+      "Option_4": "D).Swimming in fast-moving water",
+      "Correct_Answer": "C).Avoiding flooded areas"
+    },
+    {
+      "Question": "What is the primary cause of volcanic eruptions?",
+      "Option_1": "A).Earthquakes",
+      "Option_2": "B).Human activities",
+      "Option_3": "C).Changes in atmospheric pressure",
+      "Option_4": "D).Movement of magma beneath the Earth's surface",
+      "Correct_Answer": "D).Movement of magma beneath the Earth's surface"
+    },
+    {
+      "Question": "How can you protect yourself during a lightning storm?",
+      "Option_1": "A).Standing near tall objects",
+      "Option_2": "B).Using an umbrella",
+      "Option_3": "C).Seeking shelter in a sturdy building or car",
+      "Option_4": "D).Running in an open field",
+      "Correct_Answer": "C).Seeking shelter in a sturdy building or car"
+    },
+    {
+      "Question": "What is the primary cause of heat waves?",
+      "Option_1": "A).Solar flares",
+      "Option_2": "B).Increased humidity",
+      "Option_3": "C).Air pollution",
+      "Option_4": "D).High-pressure systems trapping hot air",
+      "Correct_Answer": "D).High-pressure systems trapping hot air"
+    },
+    {
+      "Question": "What does the Asingan Japanese Garden and Friendship Park commemorate?",
+      "Option_1": "A).Spanish colonization",
+      "Option_2": "B).Japanese occupation",
+      "Option_3": "C).Independence Day",
+      "Option_4": "D).Friendship between Japan and the Philippines",
+      "Correct_Answer": "D).Friendship between Japan and the Philippines"
+    },
+    {
+      "Question": "Which of the following is a potential effect of climate change on natural disasters?",
+      "Option_1": "A).Decreased frequency of hurricanes",
+      "Option_2": "B).Reduced intensity of wildfires",
+      "Option_3": "C).Increased severity of droughts",
+      "Option_4": "D).Enhanced stability of tectonic plates",
+      "Correct_Answer": "C).Increased severity of droughts"
+    },
+    {
+      "Question": "What is the most common cause of car accidents?",
+      "Option_1": "A).Distracted driving",
+      "Option_2": "B).Speeding",
+      "Option_3": "C).Weather conditions",
+      "Option_4": "D).Mechanical failure",
+      "Correct_Answer": "A).Distracted driving"
+    },
+    {
+      "Question": "What is the recommended action when you encounter a large animal crossing the road?",
+      "Option_1": "A).Honk your horn to scare the animal away",
+      "Option_2": "B). Swerve to avoid the animal",
+      "Option_3": "C).Maintain your speed and direction",
+      "Option_4": "D).Slow down and give the animal time to cross safely",
+      "Correct_Answer": "D).Slow down and give the animal time to cross safely"
+    },
+    {
+      "Question": "Which of the following factors can contribute to workplace accidents?",
+      "Option_1": "A).Lack of proper training",
+      "Option_2": "B).Excessive workplace cleanliness",
+      "Option_3": "C).Minimal safety regulations ",
+      "Option_4": "D).Adequate lighting conditions",
+      "Correct_Answer": "A).Lack of proper training"
+    },
+    {
+      "Question": "What is the first thing you should do if you witness a severe accident?",
+      "Option_1": "A).Call emergency services",
+      "Option_2": "B).Move the injured person immediately",
+      "Option_3": "C).Take pictures for evidence",
+      "Option_4": "D).Provide first aid without hesitation",
+      "Correct_Answer": "A).Call emergency services"
+    },
+    {
+      "Question": "What is the primary cause of slips, trips, and falls in the workplace?",
+      "Option_1": "A).Worn-out shoes",
+      "Option_2": "B).Improper lighting",
+      "Option_3": "C).Excessive caution",
+      "Option_4": "D).Lack of signage",
+      "Correct_Answer": "B).Improper lighting"
+    },
+    {
+      "Question": "How can you prevent burns in the kitchen?",
+      "Option_1": "A).Leave pot handles protruding from the stove",
+      "Option_2": "B).Use a damp cloth to handle hot objects",
+      "Option_3": "C).Pour water on a grease fire",
+      "Option_4": "D).Keep flammable objects near the stove",
+      "Correct_Answer": "B).Use a damp cloth to handle hot objects"
+    },
+    {
+      "Question": "What is the leading cause of accidental poisoning?",
+      "Option_1": "A).Ingesting household chemicals",
+      "Option_2": "B).Consuming expired food",
+      "Option_3": "C).Overdosing on medication",
+      "Option_4": "D).Eating wild mushrooms",
+      "Correct_Answer": "D).Eating wild mushrooms"
+    },
+    {
+      "Question": "What should you do if you accidentally come into contact with a hazardous chemical substance?",
+      "Option_1": "A).Wash the affected area with water ",
+      "Option_2": "B).Ignore it unless symptoms develop",
+      "Option_3": "C).Apply a topical cream without rinsing",
+      "Option_4": "D).Consult a medical professional immediately",
+      "Correct_Answer": "A).Wash the affected area with water "
+    },
+    {
+      "Question": "What is the primary cause of bicycle accidents?",
+      "Option_1": "A).Poor bike maintenance",
+      "Option_2": "B).Excessive speed",
+      "Option_3": "C).Lack of protective gear",
+      "Option_4": "D).Collisions with motor vehicles",
+      "Correct_Answer": "D).Collisions with motor vehicles"
+    },
+    {
+      "Question": "What is the primary cause of drowning accidents?",
+      "Option_1": "A).Rough water conditions",
+      "Option_2": "B).Lack of swimming skills",
+      "Option_3": "C).Swimming alone",
+      "Option_4": "D).Swimming in designated areas",
+      "Correct_Answer": "B).Lack of swimming skills"
+    },
+    {
+      "Question": "How can you prevent fires in the home?",
+      "Option_1": "A).Leave candles unattendeds",
+      "Option_2": "B).Overload electrical outlets",
+      "Option_3": "C).Place flammable items near heat sources",
+      "Option_4": "D).Install smoke detectors and have fire extinguishers available",
+      "Correct_Answer": "D).Install smoke detectors and have fire extinguishers available"
+    }
+  ]
+}
